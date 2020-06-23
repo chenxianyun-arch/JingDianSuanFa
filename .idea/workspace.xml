@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26febe7d-f8df-4966-8d34-9b3bbba82ede" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JinDianSuanFa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/META-INF/JinDianSuanFa.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/array/ArrayAverge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/array/ArrayCopy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/array/ArrayDianDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/array/ArrayOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/array/MaxArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/array/MaxArea2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/array/NextPermutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/array/RemoveDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/array/RemoveDuplicates2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/array/RemoveElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/array/RemoveElement2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/array/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/javareview/classes/Hero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/javareview/classes/SubClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/javareview/classes/SubClass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/linkedtable/AddTwoNumbers$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/linkedtable/AddTwoNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/linkedtable/DeleteDuplicates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/linkedtable/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/linkedtable/MergTwoLTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/linkedtable/SwapPairs$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/linkedtable/SwapPairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/stack/ArithmeticExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/stack/DcodeString2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/stack/DecodeString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/stack/IsValid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/stack/MinStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/stack/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/stack/Trap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/string/RomanToInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/string/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/string/longestCommonPrefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/subarraysDivByK/SubArrayDivByKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/subarraysDivByK/SubArraysDivByK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/test/DequeArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/test/Modefier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/test/SpecialModefier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/unit1/test/BooleanArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/unit1/test/ComparisonOfSize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/unit1/test/MathA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/unit1/test/MathB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/unit1/test/MathC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/unit1/test/MatrixTranspose.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/unit1/test/NumberToBinaryString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/unit1/test/TestOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/array/ArrayAverge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/array/ArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/array/ArrayDianDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/array/ArrayOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/array/MaxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/array/MaxArea2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/array/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/array/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/array/RemoveDuplicates2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/array/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/array/RemoveElement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/array/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/javareview/classes/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/javareview/classes/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/javareview/classes/SubClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/linkedtable/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/linkedtable/DeleteDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/linkedtable/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/linkedtable/MergTwoLTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/linkedtable/SwapPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/stack/ArithmeticExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/stack/DcodeString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/stack/DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/stack/IsValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/stack/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/stack/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/stack/Trap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/string/RomanToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/string/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/string/longestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/subarraysDivByK/SubArrayDivByKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/subarraysDivByK/SubArraysDivByK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/test/DequeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/test/Modefier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/test/SpecialModefier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/unit1/test/BooleanArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/unit1/test/ComparisonOfSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/unit1/test/MathA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/unit1/test/MathB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/unit1/test/MathC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/unit1/test/MatrixTranspose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/unit1/test/NumberToBinaryString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/unit1/test/TestOne.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z95yOR7wSeIehPZmmWD3E94LTB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="MyBatisLogPluginparameters" value="Parameters:" />
+    <property name="MyBatisLogPluginpreparing" value="Preparing:" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/githubProject/github/Hospital-01" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cxy" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cxy.array" />
+    </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="RunManager" selected="Application.longestCommonPrefix">
+    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cxy.linkedtable.AddTwoNumbers" />
+      <module name="JinDianSuanFa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cxy.linkedtable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cxy.linkedtable.DeleteDuplicates" />
+      <module name="JinDianSuanFa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cxy.linkedtable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergTwoLTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cxy.linkedtable.MergTwoLTable" />
+      <module name="JinDianSuanFa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cxy.linkedtable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cxy.array.NextPermutation" />
+      <module name="JinDianSuanFa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cxy.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="longestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cxy.string.longestCommonPrefix" />
+      <module name="JinDianSuanFa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cxy.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.longestCommonPrefix" />
+        <item itemvalue="Application.AddTwoNumbers" />
+        <item itemvalue="Application.DeleteDuplicates" />
+        <item itemvalue="Application.NextPermutation" />
+        <item itemvalue="Application.MergTwoLTable" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26febe7d-f8df-4966-8d34-9b3bbba82ede" name="Default Changelist" comment="" />
+      <created>1584238722979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584238722979</updated>
+      <workItem from="1584238727934" duration="1045000" />
+      <workItem from="1584239794800" duration="65000" />
+      <workItem from="1584239874305" duration="58000" />
+      <workItem from="1584239946624" duration="467000" />
+      <workItem from="1584240427238" duration="3988000" />
+      <workItem from="1584244477537" duration="241000" />
+      <workItem from="1584244992914" duration="1734000" />
+      <workItem from="1584246746011" duration="2453000" />
+      <workItem from="1584446581204" duration="4508000" />
+      <workItem from="1584534063095" duration="6994000" />
+      <workItem from="1584590475347" duration="780000" />
+      <workItem from="1585222284430" duration="49000" />
+      <workItem from="1585324574085" duration="2000" />
+      <workItem from="1585646384202" duration="413000" />
+      <workItem from="1585647602127" duration="41000" />
+      <workItem from="1585723081209" duration="6000" />
+      <workItem from="1585811072005" duration="7000" />
+      <workItem from="1585917775874" duration="4000" />
+      <workItem from="1586252575269" duration="28000" />
+      <workItem from="1590550213140" duration="10467000" />
+      <workItem from="1590582340827" duration="96000" />
+      <workItem from="1591014703067" duration="11529000" />
+      <workItem from="1591063086141" duration="14900000" />
+      <workItem from="1591146127576" duration="4587000" />
+      <workItem from="1591234112034" duration="11137000" />
+      <workItem from="1591316872999" duration="5331000" />
+      <workItem from="1591408580674" duration="1856000" />
+      <workItem from="1591422792205" duration="4612000" />
+      <workItem from="1591453962133" duration="1107000" />
+      <workItem from="1591531176353" duration="4486000" />
+      <workItem from="1591615806349" duration="6123000" />
+      <workItem from="1591666516874" duration="5667000" />
+      <workItem from="1591682184394" duration="44000" />
+      <workItem from="1591702782947" duration="8108000" />
+      <workItem from="1591752809292" duration="4361000" />
+      <workItem from="1591795688030" duration="2502000" />
+      <workItem from="1591798215254" duration="3677000" />
+      <workItem from="1592026809799" duration="5802000" />
+      <workItem from="1592189315398" duration="8096000" />
+      <workItem from="1592226770271" duration="8380000" />
+      <workItem from="1592271863036" duration="1928000" />
+      <workItem from="1592274630789" duration="40000" />
+      <workItem from="1592406577656" duration="4263000" />
+      <workItem from="1592445370534" duration="5561000" />
+      <workItem from="1592806348274" duration="1699000" />
+      <workItem from="1592887146457" duration="5356000" />
+      <workItem from="1592917075021" duration="3248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="247" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1584590641238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="580" y="247" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1536.824@0.0.1536.824" timestamp="1584590641238" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1592192587365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592192587365" />
+    <state x="549" y="114" key="FileChooserDialogImpl" timestamp="1592274665633">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="114" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592274665633" />
+    <state width="1493" height="304" key="GridCell.Tab.0.bottom" timestamp="1592920597669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="304" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592920597669" />
+    <state width="1493" height="304" key="GridCell.Tab.0.center" timestamp="1592920597669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="304" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592920597669" />
+    <state width="1493" height="304" key="GridCell.Tab.0.left" timestamp="1592920597669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="304" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592920597669" />
+    <state width="1493" height="304" key="GridCell.Tab.0.right" timestamp="1592920597669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="304" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592920597669" />
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom" timestamp="1591027769867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591027769867" />
+    <state width="1493" height="264" key="GridCell.Tab.1.center" timestamp="1591027769867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591027769867" />
+    <state width="1493" height="264" key="GridCell.Tab.1.left" timestamp="1591027769867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591027769867" />
+    <state width="1493" height="264" key="GridCell.Tab.1.right" timestamp="1591027769867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591027769867" />
+    <state x="349" y="150" key="IDE.errors.dialog" timestamp="1584447865855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="150" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1584447865855" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1592917088836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592917088836" />
+    <state x="438" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1592917075111">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="438" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592917075111" />
+    <state x="485" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591422885974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1591422885974" />
+    <state x="445" y="257" width="715" height="567" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584534345948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="257" width="715" height="567" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1584534345948" />
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog" timestamp="1591753636634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1591753636634" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1591623958242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1591623958242" />
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592032132274">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592032132274" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/cxy/string/Test.java</url>
+          <line>6</line>
+          <properties class="com.cxy.string.Test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/cxy/unit1/test/TestOne.java</url>
+          <line>3</line>
+          <properties class="com.cxy.unit1.test.TestOne" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/cxy/stack/IsValid.java</url>
+          <line>33</line>
+          <properties class="com.cxy.stack.IsValid" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cxy/test/Test.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
