@@ -48,29 +48,6 @@ public class longestCommonPrefix {
       res.append(ch);
     }
     return res.toString();
-//    String s = "";
-//    //长度为0直接返回空字符串
-//    if(strs.length == 0) {
-//      return s;
-//    }
-//    //minLen是最短字符串长度
-//    int minLen = strs[0].length();
-//    for(int i = 1; i < strs.length; i++){
-//      if(strs[i].length() < minLen){
-//        minLen = strs[i].length();
-//      }
-//    }
-//    for(int i = 0; i < minLen; i++){
-//      char ch = strs[0].charAt(i);
-//      int flag = 1;
-//      for(int j = 1; j < strs.length; j++){
-//        if(ch != strs[j].charAt(i)){
-//          return s;
-//        }
-//      }
-//      s += ch;
-//    }
-//    return s;
   }
 
   public static void main(String[] args) {

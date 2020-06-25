@@ -7,5 +7,8 @@ public class DequeArray {
   public static void main(String[] args){
     Deque<Number> deque = new ArrayDeque<>();
     System.out.println(deque.peek());
+
+
+
   }
 }

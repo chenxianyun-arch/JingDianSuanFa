@@ -33,7 +33,7 @@ public class RomanToInt {
       }else {
         sum += preNum;
       }
-      preNum = sum;
+      preNum = num;
     }
     sum += preNum;
     return sum;
@@ -57,5 +57,11 @@ public class RomanToInt {
         return 1000;
       default:return 0;
     }
+
+
+  }
+
+  public static void main(String[] args) {
+    System.out.println(new RomanToInt().romanToInt("IV"));
   }
 }
