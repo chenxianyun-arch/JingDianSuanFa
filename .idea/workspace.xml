@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26febe7d-f8df-4966-8d34-9b3bbba82ede" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cxy/string/IntToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cxy/string/StringConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cxy/string/ValidParenthesis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/string/longestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/string/longestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/string/RomanToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/string/RomanToInt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/string/StringConvert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/string/StringConvert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/test/DequeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/test/DequeArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/test/Modefier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/test/Modefier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/test/SpecialModefier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/test/SpecialModefier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JinDianSuanFa/com/cxy/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cxy/string/RomanToInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cxy/string/RomanToInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cxy/test/DequeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cxy/test/DequeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cxy/test/Modefier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cxy/test/Modefier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cxy/test/SpecialModefier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cxy/test/SpecialModefier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cxy/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cxy/test/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,13 +94,13 @@
       <select />
     </treeState>
   </component>
-  <component name="RunManager" selected="Application.StringConvert">
-    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cxy.linkedtable.AddTwoNumbers" />
+  <component name="RunManager" selected="Application.ValidParenthesis">
+    <configuration name="DiGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cxy.test.DiGui" />
       <module name="JinDianSuanFa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cxy.linkedtable.*" />
+          <option name="PATTERN" value="com.cxy.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,8 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="longestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cxy.string.longestCommonPrefix" />
+    <configuration name="ValidParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cxy.string.ValidParenthesis" />
       <module name="JinDianSuanFa" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidParenthesis" />
+        <item itemvalue="Application.DiGui" />
         <item itemvalue="Application.StringConvert" />
         <item itemvalue="Application.IntToRoman" />
         <item itemvalue="Application.RomanToInt" />
-        <item itemvalue="Application.longestCommonPrefix" />
-        <item itemvalue="Application.AddTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +244,11 @@
       <workItem from="1593069176833" duration="202000" />
       <workItem from="1593088260507" duration="4095000" />
       <workItem from="1593140707666" duration="3253000" />
+      <workItem from="1593311512212" duration="1792000" />
+      <workItem from="1593327458995" duration="353000" />
+      <workItem from="1593353005421" duration="2158000" />
+      <workItem from="1593398348202" duration="4812000" />
+      <workItem from="1593486774088" duration="16000" />
     </task>
     <servers />
   </component>
@@ -242,34 +256,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="247" key="#com.intellij.ide.actions.DebugLogConfigureAction" timestamp="1584590641238">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593327789785">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="580" y="247" key="#com.intellij.ide.actions.DebugLogConfigureAction/0.0.1536.824@0.0.1536.824" timestamp="1584590641238" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593327789785" />
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1592192587365">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592192587365" />
-    <state x="549" y="114" key="FileChooserDialogImpl" timestamp="1593069357565">
+    <state x="516" y="313" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593311958216">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="114" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593069357565" />
-    <state width="725" height="164" key="GridCell.Tab.0.bottom" timestamp="1593145735498">
+    <state x="516" y="313" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1593311958216" />
+    <state x="549" y="114" key="FileChooserDialogImpl" timestamp="1593312089495">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593145735498" />
-    <state width="725" height="164" key="GridCell.Tab.0.center" timestamp="1593145735498">
+    <state x="549" y="114" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593312089495" />
+    <state width="1493" height="115" key="GridCell.Tab.0.bottom" timestamp="1593360433413">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="164" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593145735498" />
-    <state width="725" height="164" key="GridCell.Tab.0.left" timestamp="1593145735498">
+    <state width="1493" height="115" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593360433413" />
+    <state width="1493" height="115" key="GridCell.Tab.0.center" timestamp="1593360433413">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="164" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593145735498" />
-    <state width="725" height="164" key="GridCell.Tab.0.right" timestamp="1593145735498">
+    <state width="1493" height="115" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593360433413" />
+    <state width="1493" height="115" key="GridCell.Tab.0.left" timestamp="1593360433413">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="725" height="164" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593145735498" />
+    <state width="1493" height="115" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593360433413" />
+    <state width="1493" height="115" key="GridCell.Tab.0.right" timestamp="1593360433413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="115" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593360433413" />
     <state width="1493" height="264" key="GridCell.Tab.1.bottom" timestamp="1591027769867">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -286,14 +304,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="264" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591027769867" />
-    <state x="272" y="0" key="SettingsEditor" timestamp="1593145720287">
+    <state x="272" y="0" key="SettingsEditor" timestamp="1593398363733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593145720287" />
-    <state x="438" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1593140707619">
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593398363733" />
+    <state x="438" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1593398347839">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="438" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593140707619" />
+    <state x="438" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593398347839" />
     <state x="485" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591422885974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -302,10 +320,6 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="174" y="120" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1593069377468" />
-    <state x="445" y="257" width="715" height="567" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584534345948">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="445" y="257" width="715" height="567" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1584534345948" />
     <state x="470" y="39" key="refactoring.ChangeSignatureDialog" timestamp="1591753636634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -314,10 +328,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1591623958242" />
-    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593141017264">
+    <state x="255" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1593311932380">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="815" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593141017264" />
+    <state x="255" y="315" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593311932380" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -348,7 +362,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/cxy/test/Test.java</url>
-          <line>9</line>
+          <line>12</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
