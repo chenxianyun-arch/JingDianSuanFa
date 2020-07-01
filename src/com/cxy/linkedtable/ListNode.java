@@ -23,7 +23,7 @@ public class ListNode {
     ListNode head = this;
     StringBuilder s = new StringBuilder();
     while (head != null){
-      s.append(head.val+ " ");
+      s.append(head.val+ "——>");
       head = head.next;
     }
     return s.toString();
