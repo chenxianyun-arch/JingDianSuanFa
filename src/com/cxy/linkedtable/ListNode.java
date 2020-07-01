@@ -5,9 +5,9 @@ package com.cxy.linkedtable;
  * 结点类
  */
 public class ListNode {
-  int val;
+  public int val;
   //指向结点指针
-  ListNode next;
+  public  ListNode next;
   //
   public ListNode(int val){
     this.val = val;
